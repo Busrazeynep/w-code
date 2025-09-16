@@ -1,0 +1,27 @@
+.navbar-img{
+    border-radius: 40px;
+}
+
+.navbar-body{
+    background-color:#ABC8B3;
+}
+
+.carousel-container{
+    width: 1000px;
+    margin:auto;
+}
+
+.carousel-img{
+    height: 450px;
+}
+
+.carousel-pr{
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+
+
+
